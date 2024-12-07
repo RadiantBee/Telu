@@ -1,0 +1,36 @@
+REFACTOR CODE!!!
+
+TODO
+main.lua
+conf.lua
+-ui
+|- ...
+-sfx
+|- ...
+|-src
+||- ... .wav
+...
+
+-src?
+|-[menu],[gamemodes]...
+
+github!
+Shaders and effects!
+Add some twists for every correct guess?
+
+Make a main menu to cycle through gamemodes (normal and rougelike)
+
+Ideas for rougelike elements:
+-Create shop and points.
+-Funky items in the shop
+-Create a switch button for a more correct guess with x2 points or nothing
+-Player has some health?
+--When close to death, foce to play 50:50
+---Special event on getting 50 exactly
+-Structured gameloop with challenges and/or bosses
+-Maybe remember pairs of [currentNumber] and [correctNumbers] and then create some kind of a minigame with them
+
+Less rng in gameplay?
+(surely no...)
+
+
